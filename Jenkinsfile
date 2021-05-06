@@ -10,7 +10,7 @@ pipeline {
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/"
 	        UIPATH_ORCH_LOGICAL_NAME = "omniavwzhecg"
 	        UIPATH_ORCH_TENANT_NAME = "OmniaDefault"
-	        UIPATH_ORCH_FOLDER_NAME = "Default"
+	        UIPATH_ORCH_FOLDER_NAME = "p"
 	    }
 	
 
